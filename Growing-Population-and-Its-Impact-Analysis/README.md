@@ -1,1 +1,1 @@
-
+This project performs data cleaning, transformation, and exploratory data analysis (EDA) on population growth data to identify trends, growth patterns, and their impact on economic and social factors.
